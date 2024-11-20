@@ -5,6 +5,7 @@
    },
    "@context": {
       "@base": "http://example.org/NIMP/",
+      "@vocab": "http://example.org/NIMP#",
       "AGRKB": "https://www.alliancegenome.org/",
       "AspGD": {
          "@id": "http://www.aspergillusgenome.org/cgi-bin/locus.pl?dbid=",
